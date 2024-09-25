@@ -10,4 +10,4 @@ Senior Computer Science student focusing on reverse engineering Apple firmware.
 
 No fluff :P Just technical content and research results.
 
-[Part One of AWDL Deep Dive]({% post_url 2024-09-25-awdl_deep_dive_one %})
+[Part One of AWDL Deep Dive]({% post_url 2024-09-25-awdl-deep-dive-one %})
